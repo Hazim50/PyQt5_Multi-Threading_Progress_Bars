@@ -23,7 +23,7 @@
 
 <ol>
     <li>Clone the repository or download the ZIP file:</li>
-    <code>git clone https://github.com/Hazim50/PyQt5-MultiThreading-ProgressBar.git</code>
+    <code>git clone https://github.com/Hazim50/PyQt5_Multi-Threading_Progress_Bars.git</code>
     <li>Install the required libraries:</li>
     <code>pip install PyQt5</code>
     <li>Run the code:</li>
@@ -55,7 +55,7 @@
 
 <ol>
     <li>Depoyu klonlayın veya ZIP dosyasını indirin:</li>
-    <code>git clone https://github.com/Hazim50/PyQt5-MultiThreading-ProgressBar.git</code>
+    <code>git clone https://github.com/Hazim50/PyQt5_Multi-Threading_Progress_Bars.git</code>
     <li>Gerekli kütüphaneleri yükleyin:</li>
     <code>pip install PyQt5</code>
     <li>Kodu çalıştırın:</li>
